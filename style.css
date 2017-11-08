@@ -68,3 +68,7 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
+
+#icehead a: hover {
+  text-decoration: underline;
+}
